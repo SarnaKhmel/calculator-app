@@ -7,4 +7,6 @@ npm start
 
 ![white](./images/Screenshot1.png)
 
-![dark](./images/Screenshot2.png =200x350)
+![dark](./images/Screenshot2.png=200x350)
+
+<img src="./images/Screenshot2.png" alt="drawing" width="200"/>
